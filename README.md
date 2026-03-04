@@ -1,8 +1,5 @@
 # Pet Adoption Management System
-
-**Course:** CS 5200 - Database Management Systems  
-**Semester:** Fall 2025  
-**Institution:** Northeastern University  
+  
 **Demo:** [Watch on YouTube](https://youtu.be/ynmeYsyN1vU)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ruchira-karle)
